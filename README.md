@@ -1,2 +1,2 @@
 # JavaRushTasks
-JavaRush Tasks and simple project
+JavaRush Tasks and simple projects
