@@ -1,4 +1,4 @@
-package com.javarush;
+package com.javarush.factorialCalculation;
 
 import java.io.BufferedReader;
 import java.io.IOException;
